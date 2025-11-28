@@ -85,6 +85,20 @@ Results-driven **Software Engineer** specializing in architecting resilient back
 
 ---
 
+### ⚙️ Engineering Principles & Core Competencies
+
+```
+┌──────────────────────────────────────────────────────────────────────────┐
+│  • Scalable Backend Architecture (Python / Django / DRF / Microservices) │
+│  • Hybrid Persistence Layer (PostgreSQL for ACID + MongoDB for High-Load)│
+│  • Asynchronous Processing & Task Queues (Celery / Redis)                │
+│  • Containerized Continuous Delivery (Docker / Git Workflows)            │
+│  • Test-Driven Development (TDD, Unit & Integration Automated Testing)   │
+└──────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
 <div align="center">
   <sub>Designed with precision & engineering rigor • Taha Asghari</sub>
 </div>
